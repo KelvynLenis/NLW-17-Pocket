@@ -11,7 +11,7 @@
 	"javascript": {
 		"formatter": {
 			"arrowParentheses": "asNeeded",
-			"jsxQuoteStyle": "double",
+			"jsxQuoteStyle": "single",
 			"quoteStyle": "single",
 			"semicolons": "asNeeded",
 			"trailingCommas": "es5"
